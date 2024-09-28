@@ -1,0 +1,1 @@
+# celery-logging-test
